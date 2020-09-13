@@ -12,15 +12,26 @@
 %attribute 15,000 < {yes,no}
 %attribute style {sport,cruiuser,dual sport, touring}
 %attribute 0-60mph< 3s {yes,no}
+%attribute sleek{yes,no}
 %
 %
 %
 %data
-suzuki gsxr 1000, yes, sport, yes
-kawasaki zx-6r, yes, sport, no
-honda crf 230, yes, dual sport, no
-yamaha roadstar 1700, yes, crusier, no
-ducati superleggera v4, no, sport, yes
-honda gold wing, no, touring, no 
+suzuki gsxr 1000, yes, sport, yes, yes
+kawasaki zx-6r, yes, sport, no, yes
+honda crf 230, yes, dual sport, no, no
+yamaha roadstar 1700, yes, crusier, no, no
+ducati superleggera v4, no, sport, yes, yes
+honda gold wing, no, touring, no, no
+yamaha r1, no, sport, no, yes
+yamah r6, yes, sport, no, yes
+suzuki dr-z400s, yes, dual sport, no, no
+kawasaki vulcan s, yes, cruiser, no, no
+ducati diavel, no, cruiser, yes, yes
+suzuki intruder m1800r, no, cruiser, no, yes
+yamah star venture, no, touring, no, yes
+honda crf450rl, yes, dual sport, no, no
+kawasaki klx250, yes, dual sport, no, yes
+kawasaki ninja h2, no, sport, yes, yes
 %
 %
