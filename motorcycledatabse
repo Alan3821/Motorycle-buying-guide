@@ -1,0 +1,26 @@
+%1. Title: Database guide for consumer motorcycles
+%
+%2. Sources:
+%	suzukicycles.com
+%	powersports.honda.com
+%	yamahmotorsports.com
+%	ducati.com
+%	kawasaki.com
+%
+%3. Atrributes
+%attribute model{Honda,yamaha,suzuki,ducati,kawasaki}
+%attribute 15,000 < {yes,no}
+%attribute style {sport,cruiuser,dual sport, touring}
+%attribute 0-60mph< 3s {yes,no}
+%
+%
+%
+%data
+suzuki gsxr 1000, yes, sport, yes
+kawasaki zx-6r, yes, sport, no
+honda crf 230, yes, dual sport, no
+yamaha roadstar 1700, yes, crusier, no
+ducati superleggera v4, no, sport, yes
+honda gold wing, no, touring, no 
+%
+%
